@@ -1,0 +1,192 @@
+.containerMovieShow {
+  background: url(https://tcdtist-tix-clone.vercel.app/static/media/back-news.b9861f84.png);
+  margin-top: 30px;
+  padding-top: 120px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.containerMovieFlex {
+  max-width: 960px;
+  height: 720px;
+  display: flex;
+  overflow: hidden;
+  flex-grow: 1;
+  max-height: 720px;
+  margin-bottom: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 24px;
+  padding-right: 24px;
+  background-color: #fff;
+}
+.MuiTabs-flexContainer {
+  display: flex;
+  flex-direction: column;
+}
+.MuiTabs-flexContainer1 {
+  border: 1px solid #e0e0e0;
+  display: flex;
+  flex-direction: column;
+}
+.MuiButtonBase-root {
+  padding: 20px;
+  min-width: unset;
+  border: 0;
+  background: transparent;
+}
+.MuiAvatar-circle {
+  width: 50px;
+  height: 50px;
+}
+.MuiTab-wrapper {
+  width: 100%;
+  display: inline-flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.MuiAvatar-img {
+  color: transparent;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  text-align: center;
+  text-indent: 10000px;
+}
+.MuiBox-root {
+  flex-direction: column;
+  display: flex;
+  overflow: hidden;
+  min-height: 48px;
+
+}
+.MuiTabs-flexContainer {
+  display: flex;
+  flex-direction: column;
+}
+.MuiButtonBase-root {
+  color: inherit;
+  border: 0;
+  cursor: pointer;
+  margin: 0;
+  display: inline-flex;
+  outline: 0;
+  padding: 0;
+  position: relative;
+  align-items: center;
+  user-select: none;
+  border-radius: 0;
+  vertical-align: middle;
+  -moz-appearance: none;
+  justify-content: center;
+  text-decoration: none;
+  background-color: transparent;
+}
+.MuiTab-root {
+  padding: 6px 12px;
+  overflow: hidden;
+  position: relative;
+  font-size: 0.875rem;
+  max-width: 264px;
+  min-width: 72px;
+  box-sizing: border-box;
+  min-height: 48px;
+  text-align: center;
+  flex-shrink: 0;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 500;
+  line-height: 1.75;
+  white-space: normal;
+  letter-spacing: 0.02857em;
+  text-transform: uppercase;
+}
+.MuiTypography-root {
+  margin: 0;
+}
+.containerCinemaMovie {
+  display: flex;
+}
+.jss161 {
+  border-right: 1px solid #e0e0e0;
+  padding: 20px;
+  min-width: unset;
+}
+.jss163 {
+  width: 280px;
+  height: 90px;
+  padding: 20px 15px 15px 20px;
+  position: relative;
+  text-align: left;
+}
+.jss165 {
+  color: #108f3e;
+  display: -webkit-box;
+  overflow: hidden;
+  font-weight: 500;
+  line-height: 1.4;
+  text-overflow: ellipsis;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+}
+.jss166 {
+  color: #757575;
+  display: -webkit-box;
+  overflow: hidden;
+  font-weight: 400;
+  text-overflow: ellipsis;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+}
+.jss167 {
+  color: #fb4226;
+  font-size: 12px;
+  text-transform: lowercase;
+  text-decoration: none;
+}
+.imgCinema {
+  width: 100px;
+  height: 126px;
+}
+.cardCinema {
+  display: flex;
+  padding: 20px;
+  position: relative;
+}
+.jss424 {
+  width: 540px;
+  border: 1px solid #e0e0e0;
+  flex-grow: 1;
+  overflow-y: scroll;
+  border-left: none;
+}
+.MuiTypography-h4 {
+  font-size: 14px;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+.MuiTypography-h6 {
+  font-size: 12px;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+.jss161:after {
+  width: 80%;
+  bottom: 0;
+  height: 1px;
+  content: "";
+  display: block;
+  position: absolute;
+  background: rgba(238, 238, 238, 0.88);
+}
+.jss160 {
+  width: 90px;
+  border: 1px solid #e0e0e0;
+  position: relative;
+}
+.jss163:after {
+  width: 80%;
+  bottom: 0;
+  height: 1px;
+  content: "";
+  display: block;
+  position: absolute;
+  background: rgba(238, 238, 238, 0.88);
+}

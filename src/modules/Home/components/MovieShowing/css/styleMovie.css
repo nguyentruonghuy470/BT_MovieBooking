@@ -1,0 +1,26 @@
+.containerCard {
+  flex-wrap: wrap;
+  display: flex;
+}
+.containerCard1 {
+  max-width: 1280px;
+  padding-top: 50px;
+  margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.containerCard2 {
+  margin-left: auto;
+  margin-right: auto;
+}
+.containerCard3 {
+  width: 25%;
+  padding: 12px;
+}
+.cardImg img {
+  width: 100%;
+  height: 314px;
+}
+.gap {
+  gap: 6px !important;
+}
